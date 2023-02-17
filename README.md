@@ -1,2 +1,2 @@
-# clime
+# weather-js
 Weather API wrapper
